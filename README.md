@@ -1,7 +1,7 @@
 
 # Semantic
 
-Search is a HTML5, CSS3  Project
+Semantic is a HTML5, CSS3 project
 
 When building web pages, we use a combination of non-semantic HTML and Semantic HTML. 
 Build a web page accessible for mobile devices and for people with disabilities as well, improve the website SEO, or Search Engine Optimization, make the website’s source code easier to read for other web developers.
@@ -11,7 +11,7 @@ Build a web page accessible for mobile devices and for people with disabilities 
 
 Install the project locally
 ```bash
-git clone 
+git clone https://github.com/SenayYakut/Semantic.git
 ```
 
 ## Usage
