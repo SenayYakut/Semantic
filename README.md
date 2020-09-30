@@ -1,1 +1,4 @@
 # Semantic
+* Accessibility
+* SEO
+* Readability
